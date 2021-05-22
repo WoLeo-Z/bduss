@@ -1,0 +1,7 @@
+{
+  "name": "bduss",
+  "description": "Deploy bduss to heroku",
+  "website": "https://github.com/woleo-z/bduss",
+  "repository": "https://github.com/woleo-z/bduss",
+  "success_url": "/"
+}
